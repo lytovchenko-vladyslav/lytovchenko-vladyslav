@@ -49,12 +49,11 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lytovchenko-vladyslav&layout=compact&theme=radical" alt="Top Languages" />
 </div>
-
 ---
 
 ### 📫 Let's Connect!
 <p align="left">
   <a href="mailto:litovchenko.vlad.unity@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://linkedin.com/in/vladyslav-lytovchenko"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://playcheaper.com"><img src="https://img.shields.io/badge/Portfolio-PlayCheaper-success?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://playcheaper.com"><img src="https://img.shields.io/badge/Portfolio-PlayCheaper-success?style=for-the-badge&logo=web&logoColor=white"/></a>
 </p>
