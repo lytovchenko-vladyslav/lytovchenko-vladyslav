@@ -1,5 +1,4 @@
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write("""<h1 align="center">Hi there, I'm Vladyslav Lytovchenko <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm Vladyslav Lytovchenko <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <h3 align="center">.NET / Full-Stack Developer from Warsaw, Poland 🇵🇱</h3>
 
@@ -45,10 +44,10 @@ with open("README.md", "w", encoding="utf-8") as f:
 
 ### 📊 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/lytovchenko-vladyslav&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/lytovchenko-vladyslav&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lytovchenko-vladyslav&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lytovchenko-vladyslav&theme=radical" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/lytovchenko-vladyslav&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lytovchenko-vladyslav&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
@@ -56,8 +55,6 @@ with open("README.md", "w", encoding="utf-8") as f:
 ### 📫 Let's Connect!
 <p align="left">
   <a href="mailto:litovchenko.vlad.unity@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://linkedin.com/in/https:vladyslav-lytovchenko"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/vladyslav-lytovchenko"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://playcheaper.com"><img src="https://img.shields.io/badge/Portfolio-PlayCheaper-success?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" /></a>
 </p>
-""")
-print("README.md generated successfully")
