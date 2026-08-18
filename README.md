@@ -91,12 +91,12 @@ I enjoy working on complex systems, improving legacy codebases, and turning comp
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="./profile/stats.svg" height="180" />
-  <img src="./profile/top-langs.svg" height="180" />
+  <img src="./profile/stats.svg" height="190" />
+  <img src="./profile/top-langs.svg" height="190" />
 </p>
 
 <p align="center">
-  <img src="./profile/contributions.svg" width="95%" />
+  <img src="./profile/streak.svg" width="495" />
 </p>
 
 ## 🧰 Tools & Technologies
