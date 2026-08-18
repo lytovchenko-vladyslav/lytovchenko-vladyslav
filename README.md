@@ -1,59 +1,149 @@
-<h1 align="center">Hi there, I'm Vladyslav Lytovchenko <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">
+  Hi there, I'm Vladyslav Lytovchenko 👋
+</h1>
 
-<h3 align="center">.NET / Full-Stack Developer from Warsaw, Poland 🇵🇱</h3>
+<h3 align="center">
+  Senior Unity Developer • .NET Developer • Software Engineer
+</h3>
 
 <p align="center">
-  I am a Software Engineer with over 10 years of commercial C# experience, specializing in building scalable backend architectures, clean code, and high-performance applications. I enjoy transitioning complex systems into robust, modern 3-tier architectures and optimizing database interactions.
+  🇵🇱 Warsaw, Poland
 </p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/vladyslav-lytovchenko">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="42" />
+  </a>
+  &nbsp;
+  <a href="mailto:litovchenko.vlad.unity@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="42" />
+  </a>
+  &nbsp;
+  <a href="https://playcheaper.com">
+    <img src="https://img.shields.io/badge/PlayCheaper-18181B?style=for-the-badge&logo=googlechrome&logoColor=white" height="42" />
+  </a>
+</p>
+```
+
+
 ---
 
-### 🔭 Current Focus & Activities
-- **Working on:** [PlayCheaper.com](https://playcheaper.com) — a game recommendation and price-tracking platform utilizing .NET 10, PostgreSQL, and React.
-- **Learning:** Advanced System Design, algorithm optimization (LeetCode/Blind 75), and diving deeper into Agentic AI workflows.
-- **Collaborating:** I'm open to collaborating on open-source .NET tools or backend performance optimization projects.
-- **Fun fact:** When I'm not coding, I teach C# and Scratch to teenagers, or head to the forest for bushcraft and woodcarving!
+## 👨‍💻 About Me
+
+I'm a Software Engineer with **10+ years of commercial C# experience** and **10 years of professional Unity development**.
+
+My background is primarily in **game development**, where I have worked on complex gameplay systems, architectures, performance optimization, multiplayer features, and large-scale Unity projects.
+
+Currently, I'm expanding my expertise into **.NET backend and full-stack development**, focusing on scalable architectures, clean code, APIs, databases, and modern web technologies.
+
+I enjoy working on complex systems, improving legacy codebases, and turning complicated problems into simple and maintainable solutions.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 💻 .NET & Full-Stack Development
 
-**Backend & Databases**
+### Backend
+
 <p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET%2010-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Entity%20Framework-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="EF Core" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
-**Frontend**
+### Databases
+
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white" />
 </p>
 
-**Architecture & Patterns**
+### Frontend
+
 <p>
-  <img src="https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge" alt="Clean Architecture" />
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=api&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+</p>
+
+### Architecture & Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/Clean_Architecture-18181B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SOLID-18181B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Design_Patterns-18181B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lytovchenko-vladyslav&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lytovchenko-vladyslav&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lytovchenko-vladyslav&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+## 🚀 Current Focus
+
+- 🔨 **Building:** [PlayCheaper.com](https://playcheaper.com) — a game recommendation and price-tracking platform built with .NET, PostgreSQL and React.
+- 🧠 **Learning:** System Design, algorithms, data structures and advanced backend development.
+- 🤖 **Exploring:** Agentic AI and AI-assisted software development workflows.
+- 🎮 **Creating:** Unity game development projects and gameplay systems.
+- 🤝 **Open to:** Interesting .NET, Unity and open-source projects.
+
 ---
 
-### 📫 Let's Connect!
-<p align="left">
-  <a href="mailto:litovchenko.vlad.unity@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://linkedin.com/in/vladyslav-lytovchenko"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://playcheaper.com"><img src="https://img.shields.io/badge/Portfolio-PlayCheaper-success?style=for-the-badge&logo=web&logoColor=white"/></a>
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="./profile/stats.svg" height="180" />
+  <img src="./profile/top-langs.svg" height="180" />
 </p>
+
+<p align="center">
+  <img src="./profile/contributions.svg" width="95%" />
+</p>
+
+## 🧰 Tools & Technologies
+
+### 🎮 Game Development
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" height="36" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" height="36" />
+  <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white" height="36" />
+</p>
+
+### 💻 Backend & Web
+
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="36" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="36" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="36" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="36" />
+</p>
+
+### 🗄️ Infrastructure & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="36" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="36" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="36" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="36" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="36" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:litovchenko.vlad.unity@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="42" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/vladyslav-lytovchenko">
+    <img src="https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="42" />
+  </a>
+  &nbsp;
+  <a href="https://playcheaper.com">
+    <img src="https://img.shields.io/badge/PLAYCHEAPER-Visit-18181B?style=for-the-badge&logo=googlechrome&logoColor=white" height="42" />
+  </a>
+</p>
+```
+
